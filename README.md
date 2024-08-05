@@ -7,7 +7,7 @@ My intellectual playground includes AI (artificial intelligence), where I dive d
 
 **Connect with me:**
 <p align="left">
-<a href="https://fb.com/han.vothanh.921677/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="han.vothanh.921677/" height="30" width="40" /></a>
+<a href="https://fb.com/nhan.vothanh.921677/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhan.vothanh.921677/" height="30" width="40" /></a>
 </p>
 
 **Languages and Tools:**
