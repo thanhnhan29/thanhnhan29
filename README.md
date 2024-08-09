@@ -15,6 +15,7 @@ My intellectual playground includes AI (artificial intelligence), where I dive d
 
 Stay tuned as I journey through the world of bits and bytes, algorithms, and data structures, with a sprinkle of humor and a dash of serious curiosity!
 
+![](https://komarev.com/ghpvc/?username=thanhnhan29&label=PROFILE+VIEWS)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhan29&" alt="thanhnhan29" /></p>
 
 
